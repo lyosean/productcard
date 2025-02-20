@@ -1,0 +1,31 @@
+.card{
+    width:200px; 
+    margin:10px; 
+    height: 390px; 
+    box-shadow: 0 0 2px ; 
+    padding: 10px; 
+    text-align: center; 
+    background-color: rgba(211, 138, 2, 0.849);
+}
+.card img{
+    width: 100%;
+}
+.product {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap; 
+
+}
+button{
+    cursor: pointer;
+    margin:5px;
+    background-color: rgb(179, 109, 81);
+    width: 200px;
+    
+}
+body{
+    background: linear-gradient(90deg, rgb(247, 198, 107),rgb(88, 62, 13));
+}
+.harga{
+    margin: 5px;
+}
